@@ -1,0 +1,4 @@
+power method O(logn) complexity to generate a paritcular fibonacci number. 
+sum upto a particular number or use it for range queries
+ex - calculate for range   n<=i<=m ans = fib(n) + fib(n+1) + . .... . fib(m) ;
+ans = fib(m+2) - fib(n+1) //spoj - FIBOSUM  
