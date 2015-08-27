@@ -13,4 +13,7 @@ fl( Intermediate vertex )
     
 Dijkstra - EZDIJKST spoj 
 codeforces - select what edges during the dij - http://codeforces.com/contest/545/submission/11269944
+if(Dis[destination] == D[destination adjacency] + edgeweight)
+// pick only one edge of minimum weight. 
+// this is one of the picked edges . 
 
