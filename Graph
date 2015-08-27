@@ -1,6 +1,8 @@
 
-dfs / bfs - PT07Y , PT07Z (is it a tree) 
-how to find a cycle in a graph using parent call. 
+dfs / bfs - PT07Y(is it a tree) 
+diameter of a tree - PT07Z
+how to find a cycle in a graph using parent call.(indirected graph)
+/////////learn for directed 
 bfs - LUCKYNUM/ONEZERO  , BITMAP (2-D matrix me bfs chalana) ; 
 
 spoj - TOPOSORT - select vertex with indegree =0 and decrease all its adjacency list by 1
