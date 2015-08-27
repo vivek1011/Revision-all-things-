@@ -1,1 +1,16 @@
 
+dfs / bfs - PT07Y , PT07Z (is it a tree) 
+how to find a cycle in a graph using parent call. 
+bfs - LUCKYNUM/ONEZERO  , BITMAP (2-D matrix me bfs chalana) ; 
+
+spoj - TOPOSORT - select vertex with indegree =0 and decrease all its adjacency list by 1
+and repeat the same . 
+
+Floyd warshall , all pair shortest path - 
+fl( Intermediate vertex )
+ fl ( Source Vertex )
+    fl(destination vertex) Minimise; 
+    
+Dijkstra - EZDIJKST spoj 
+codeforces - select what edges during the dij - http://codeforces.com/contest/545/submission/11269944
+
