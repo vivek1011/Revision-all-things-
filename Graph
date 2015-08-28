@@ -20,7 +20,9 @@ if(Dis[destination] == D[destination adjacency] + edgeweight)
 // this is one of the picked edges . 
 
 IMPORTANT -  
-STRONGLY CONNECTED COMPONENTS AND HOW TO FIND A CYCLE IN A DIRECTED GRAPH(toposort on spoj )
+TWO things in one traversal . 
+STRONGLY CONNECTED COMPONENTS - (kisi bhi vertex se kisi bhi vertex pe pahunch sakta hun.)
+HOW TO FIND A CYCLE IN A DIRECTED GRAPH(see AC solution on toposort on spoj )
 http://codeforces.com/contest/427/submission/12733090 - how to traverse only those paths which contain a cycle . 
 
 
