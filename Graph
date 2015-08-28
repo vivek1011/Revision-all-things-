@@ -19,3 +19,8 @@ if(Dis[destination] == D[destination adjacency] + edgeweight)
 // pick only one edge of minimum weight. 
 // this is one of the picked edges . 
 
+IMPORTANT -  
+STRONGLY CONNECTED COMPONENTS AND HOW TO FIND A CYCLE IN A DIRECTED GRAPH(toposort on spoj )
+http://codeforces.com/contest/427/submission/12733090 - how to traverse only those paths which contain a cycle . 
+
+
